@@ -35,6 +35,20 @@ First line with two spaces after.
 And the next line.
 ```
 
+### Footnote
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+
+### Strikethrough
+
+~~The world is flat.~~
+
+
+
+
 ### Lists
 
 #### Ordered Lists
@@ -50,6 +64,19 @@ And the next line.
 - Second item
 - Third item
 ```
+
+```
+### Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+```
+### Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 ### Links
 ```markdown
