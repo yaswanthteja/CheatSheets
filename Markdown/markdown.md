@@ -6,6 +6,8 @@ Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you 
 ---
 ## Cheat-Sheet
 
+# Text 
+
 ### Headings
 ```markdown
 # Heading 1
@@ -26,7 +28,8 @@ Example
 
 Here is a heading: `# Heading`, **don't do this:** `#Heading` 
 
-### Emphasis
+### Text 
+syntax
 ```markdown
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
